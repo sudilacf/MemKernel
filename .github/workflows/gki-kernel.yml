@@ -8,7 +8,7 @@ on:
         type: string
         description: >
           Output directory of gki,
-          for example: android12-5.10
+          for example: android-4.19-stable
       version_name:
         required: true
         type: string
